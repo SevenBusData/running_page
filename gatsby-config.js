@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/running page',
   siteMetadata: {
-    siteTitle: 'Running Page',
+    siteTitle: 'Seven Running Page',
     siteUrl: 'https://SevenBusData.run',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
     description: 'Personal site and blog',
