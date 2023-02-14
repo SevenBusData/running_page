@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Seven Running Page',
     siteUrl: 'https://SevenBusData.run',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://avatars.githubusercontent.com/u/122709756?s=96&v=4',
     description: 'Personal site and blog',
     navLinks: [
       {
