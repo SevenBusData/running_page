@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/',
+  pathPrefix: process.env.PATH_PREFIX || '/running page',
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://SevenBusData.run',
