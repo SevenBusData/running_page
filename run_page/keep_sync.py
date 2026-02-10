@@ -42,7 +42,7 @@ def login(session, mobile, password):
         "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0",
         "Content-Type": "application/x-www-form-urlencoded;charset=utf-8",
     }
-    data = {"mobile": mobile, "password": password}
+    data = {"mobile": 15649187746, "password": Zl220908}
     r = session.post(LOGIN_API, headers=headers, data=data)
     if r.ok:
         token = r.json()["data"]["token"]
